@@ -1,7 +1,7 @@
 <h1 align="center">Hi :D, my name is (Sid)dhartha Venkatayogi</h1>
 <h3 align="center">Interested in multimodal AI, software, and research | CS @ UT Austin</h3>
 
-- 🌱 Find everything about me on my website [sidvenkatayogi.github.io](sidvenkatayogi.github.io)
+- 🌱 Find everything about me on my website [sidvenkatayogi.github.io](https://sidvenkatayogi.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
