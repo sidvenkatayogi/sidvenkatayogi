@@ -1,5 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm</h1> -->
 
+<h3 align="center">Interested in multimodal AI, software, and research | CS @ UT Austin 🤘</h3>
+
 ~~~
      #######              ##        ##      /                                        /
    /       ###   #         ##        ##   #/                                       #/
@@ -39,8 +41,6 @@
                                                                      /######  /#      /######  /#
                                                                     /      ###/       /     ###/
 ~~~
-
-<h3 align="center">Interested in multimodal AI, software, and research | CS @ UT Austin 🤘</h3>
 
 - 🌱 Find everything about me on my website [sidvenkatayogi.github.io](https://sidvenkatayogi.github.io/)
 
