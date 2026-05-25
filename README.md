@@ -4,12 +4,12 @@
 
 🌱 Find everything about me on my website [sidvenkatayogi.github.io](https://sidvenkatayogi.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sidvenkatayogi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidvenkatayogi)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sidvenkatayogi)
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -71,12 +71,12 @@
   ##   ##      //# ###  ###/ #### /## / ###  / ### /########/ ### / ##   ### / /####  / /  ###  /###
   ##   ##      /#   ###  ##   ###/ ##/   /  /   ###/  ##   /   ##/  ##   ###/ /   ###/ /    ###/  ##
   ##   ##     ###    ### ##    ##  ##   /  ##    ##   ##  ##    ##  ##    ## ##    ## ##     ##   ##
-  ##   ##     #/######## ##    ##  ##  /   ##    ##   ##  ##    ##  ##    ## ##    ## ##     ##   ##
-   ##  ##     //#######  ##    ##  ## ##   ##    ##   ##  ##    ##  ##    ## ##    ## ##     ##   ##
+  ##   ##     ########## ##    ##  ##  /   ##    ##   ##  ##    ##  ##    ## ##    ## ##     ##   ##
+   ##  ##     #########  ##    ##  ## ##   ##    ##   ##  ##    ##  ##    ## ##    ## ##     ##   ##
     ## #     #/##        ##    ##  ######  ##    ##   ##  ##    ##  ##    ## ##    ## ##     ##   ##
-     ###     / ####    / ##    ##  ##  ### ##    /#   ##  ##    /#  ##    ## ##    ## ##     ##   ##
-      ######/    #####/  ###   ### ##   ###/####/ ##  ##   ####/ ##   ################# ########  ##//
-        ###       ####    ###   ### ##   #/  ###   ##  ##   ###   ##  #### ### #####      ### ###  #/  
+     ###    // ####    / ##    ##  ##  ### ##    /#   ##  ##    /#  ##    ## ##    ## ##     ##   ##
+      ######/    #####/  ###   ### ##   ###/####/ ##  ##   ####/ ##   ################# ######## ##//
+        ###       ####    ###   ### ##   #/  ###   ##  ##   ###   ##  #### ### #####      ### ### #/  
                                                                             ###                ###
                                                                        ####   ###        ####   ###
                                                                      /######  /#      /######  /#
