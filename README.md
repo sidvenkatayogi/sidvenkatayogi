@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Hi 👋, I'm</h1> -->
 
-<h3 align="center">currently interested in LLMs + RecSys + multimodal AI | CS @ UT Austin 🤘</h3>
+<h4 align="center">currently interested in LLMs + RecSys + multimodal AI | CS @ UT Austin 🤘</h4>
 
-- 🌱 Find everything about me on my website [sidvenkatayogi.github.io](https://sidvenkatayogi.github.io/)
+🌱 Find everything about me on my website [sidvenkatayogi.github.io](https://sidvenkatayogi.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 
