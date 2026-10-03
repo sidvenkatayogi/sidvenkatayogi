@@ -2,7 +2,7 @@
 
 <h4 align="center">currently interested in LLMs + RecSys + multimodal AI | CS @ UT Austin 🤘</h4>
 
-🌱 Find everything about me on my website [sidvenkatayogi.github.io](https://sidvenkatayogi.github.io/)
+🌱 Find everything about me on my website [s9v10.dev](s9v10.dev)
 
 <h4 align="left">Connect with me:</h4>
 
